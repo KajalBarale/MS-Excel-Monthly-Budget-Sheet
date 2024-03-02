@@ -1,6 +1,8 @@
 # MS-Excel-Monthly-Budget-Sheet
 Efficiently manage finances with this Microsoft Excel monthly budget sheet, now on GitHub. Take control of your budget effortlessly!
+
 **Monthly Budget Planner**
+
 **Introduction:**
 This Monthly Budget Planner is a meticulously designed Excel project aimed at optimizing your financial management process. It offers a structured approach to tracking expenses, savings, and debits on a monthly basis.
 
